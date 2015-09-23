@@ -5,6 +5,7 @@ public class First {
 // TODO Auto-generated method stub
     System.out.println("ready for release");
     System.out.println("this is second branch");
+    System.out.println("common for all branches");
     }
 
 }
